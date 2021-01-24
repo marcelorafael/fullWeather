@@ -88,7 +88,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[1].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[1].max} </Text>
@@ -100,7 +100,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[2].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[2].max} </Text>
@@ -112,7 +112,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[3].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
 
                                     <View style={{flexDirection:'row'}}>
@@ -129,7 +129,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[1].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[1].max} </Text>
@@ -141,7 +141,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[2].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[2].max} </Text>
@@ -153,7 +153,7 @@ export default function Main() {
                                 <View style={{margin: 5, alignItems:'center'}}>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[3].weekday} </Text>
-                                        <Icon name="weather-cloudy" color="gray" size={20} />
+                                        <Icon name="weather-hazy" color="gray" size={20} />
                                     </View>
                                     <View style={{flexDirection:'row'}}>
                                         <Text style={{...FONTS.h4, color: COLORS.black}}> {data.results.forecast[3].max} </Text>
