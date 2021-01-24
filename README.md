@@ -9,4 +9,4 @@
 #### react-native-neomorph-shadows
 #### react-native-vector-icons
 
-##### O app faz conexão com a API rest HGBrasil e retorna os dados climáticos da região com base na latitude e longetude
+##### O app faz conexão com a API rest HGBrasil e retorna os dados climáticos da região com base na latitude e longetude.
